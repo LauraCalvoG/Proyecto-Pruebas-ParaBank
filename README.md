@@ -10,15 +10,13 @@ Las pruebas fueron desarrolladas con **Katalon Studio** y **Cypress**, con el pr
 - **Google Chrome** 127+  
 - **Sistema operativo:** Windows 10  
 - **Editor adicional:** Visual Studio Code
-- 
+  
 ##  Requisitos previos
 Antes de ejecutar las pruebas asegúrate de tener instalado:
 - [Node.js](https://nodejs.org/) (para ejecutar Cypress).  
 - [Katalon Studio](https://katalon.com/download) (para las pruebas funcionales).  
 - Un navegador compatible (Chrome o Edge).  
 - Acceso a internet estable.
-
----
 
 ## Estructura del proyecto
 Proyecto-Pruebas-ParaBank/
